@@ -7,3 +7,7 @@
  <li> ReactJS
  <li> Axios
  </ul>
+ 
+ <h2>Deploy</h2>
+ 
+ https://crypto-currencies.netlify.app
